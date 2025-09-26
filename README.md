@@ -18,6 +18,6 @@ Share all your images with friends and colleagues to streamline workflow of fami
 
 SBMS Spots is deployed to GitHub pages
 
-- Deployment Link:
+- Deployment Link (https://jyothipadala.github.io/se_project_spots/)
 
 - Video Description:
